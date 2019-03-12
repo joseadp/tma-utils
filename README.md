@@ -1,3 +1,5 @@
+*This repository is DEPRECATED! The development continues in the [ATMOSPHERE project](https://github.com/eubr-atmosphere/tma-framework/tree/master/common/tma-utils)*
+
 # TMA-Utils Library 
 
 Main dependency to use during the development of the containers of the TMA Framework.
